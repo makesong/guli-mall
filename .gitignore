@@ -18,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.jar
 
 ### NetBeans ###
 /nbproject/private/
@@ -29,6 +30,7 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .wrapper
+
 
 ### VS Code ###
 .vscode/
